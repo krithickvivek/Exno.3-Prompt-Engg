@@ -52,5 +52,5 @@ To design an AI-powered chatbot that assists customers in resolving issues relat
 
 
 # Result:
-Thus the Prompts were exected succcessfully.
+The experiment successfully demonstrated the use of various prompting techniques—Straightforward, Tabular Format, Missing Word, and Preceding Question Prompting—to guide AI responses effectively. These techniques enable structured, context-aware, and user-friendly interactions, forming a strong foundation for developing intelligent chatbot systems.
 
